@@ -30,12 +30,18 @@ Eigentlich nur pod-max-privileged.yaml anschauen :)
 # PSP/SCC to the rescue
 
 Beispiele mit PSP (ohne Rolebinding)
+
 SCC zeigen
 
 # Abgesang auf PSP
 
-Deprecated ab K8s 1.21
-Weg        ab K8s 1.25
+Fahrplan laut Formalie 
+
+
+Deprecated ab K8s 1.21 (Sommer)
+
+Weg        ab K8s 1.25 (Sommer +2 Jahre)
+
 SCC bleibt
 
 # OPA/kyverno to the rescue
