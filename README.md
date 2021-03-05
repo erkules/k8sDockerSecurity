@@ -24,7 +24,8 @@ docker container run --rm -ti --user 1235  erkules/ping
 
 # Desgleichen in K8s/OCP und etwas mehr
 
-Siehe files
+Eigentlich nur pod-max-privileged.yaml anschauen :)
+
 
 # PSP/SCC to the rescue
 

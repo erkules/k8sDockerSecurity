@@ -5,7 +5,9 @@ metadata:
 spec:
   containers:
   - name: ping
-    image: alpine
+    image: erkules/ping
+    securityContext:
+      runAsUser: 1000
     command:
     - sleep
     - "5000"
